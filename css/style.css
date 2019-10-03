@@ -67,3 +67,9 @@ h1{
 #kiptext{
 	text-decoration: underline;
 }
+
+/*-----------------info.html-----------------*/
+#vakopicture{
+	width: 250px;
+	height: 300px;
+}
