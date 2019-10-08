@@ -86,27 +86,16 @@ h1{
   animation-timing-function: linear; 
 }
 
-
 @keyframes spin {
     from {
         transform:rotate(0deg);
-    }
-    to {
-        transform:rotate(180deg);
-    }
-    to{
-    	transform:rotate(90deg);
-    }
-    to{
-    	transform:rotate(270deg);
-    }
-    to{
-    	transform:rotate(180deg);
     }
     to{
     	transform:rotate(360deg);
     }
 }
 
-
-
+.Kingdom iframe{
+	width: 1096px;
+	height: 1420px;
+}
