@@ -78,10 +78,12 @@ h1{
     font-size:100%;
     font-size:30px;
 }
-
+.yeet{
+	margin-left: 100px
+}
 .cart i:hover{
   animation-name: spin;
-  animation-duration: 1000ms;
+  animation-duration: 1ms;
   animation-iteration-count: infinite;
   animation-timing-function: linear; 
 }
