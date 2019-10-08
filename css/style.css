@@ -74,6 +74,25 @@ h1{
 	height: 300px;
 }
 /*-----------------merch.html-----------------*/
+.cart i:hover{
+  animation-name: spin;
+  animation-duration: 5ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+.cart{ 
+    font-size:100%;
+  }
 .cart{
-  
+  font-size:30px;
 }
