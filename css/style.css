@@ -83,7 +83,7 @@ h1{
 }
 .cart i:hover{
   animation-name: spin;
-  animation-duration: 1ms;
+  animation-duration:1000ms;
   animation-iteration-count: infinite;
   animation-timing-function: linear; 
 }
